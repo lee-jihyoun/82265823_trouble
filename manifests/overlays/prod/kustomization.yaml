@@ -13,5 +13,5 @@ kind: Kustomization
 namePrefix: prod-
 namespace: "82187227"
 images:
-- name: cepgstapacr.azurecr.io/82187227
+- name: ceappacr.azurecr.io/82187227
   newTag: "202410091451"
